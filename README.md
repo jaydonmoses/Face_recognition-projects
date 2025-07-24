@@ -11,11 +11,9 @@ This project is a real-time face recognition system built with Python and OpenCV
 ## Screenshots
 
 * **Recognizing Jaydon Moses:**
-    ![Jaydon Moses Recognition]
   ![IMG_9677](https://github.com/user-attachments/assets/9badfd59-51ef-40df-88c2-d3c24e120b15)
 
 * **Recognizing Elon Musk (from image):**
-    ![Elon Musk Recognition]
   ![IMG_9679](https://github.com/user-attachments/assets/d11bb018-3a7f-4629-8a8e-443d128e046e)
 
 ## Technologies
@@ -33,7 +31,7 @@ This project is a real-time face recognition system built with Python and OpenCV
 
 ### Installation
 
-1.  Clone this repository: `git clone https://github.com/jaydonmoses/Face_recognition-projects.git`
+1.  Clone this repository: `git clone https://github.com/jaydonmoses/Face_recognition_project.git`
 2.  Navigate to the project directory: `cd face_recognition-project`
 3.  Install dependencies: `pip install -r requirements.txt`
 
