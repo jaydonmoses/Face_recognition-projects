@@ -7,19 +7,15 @@ known_face_names = []
 
 known_person1_image = face_recognition.load_image_file("person1.jpg")
 known_person2_image = face_recognition.load_image_file("person2.jpg")
-known_person3_image = face_recognition.load_image_file("person3.jpg")
 
 known_person_encoding1 = face_recognition.face_encodings(known_person1_image)[0]
 known_person_encoding2 = face_recognition.face_encodings(known_person2_image)[0]
-known_person_encoding3 = face_recognition.face_encodings(known_person3_image)[0]
 
 known_face_encodings.append(known_person_encoding1)
 known_face_encodings.append(known_person_encoding2)
-known_face_encodings.append(known_person_encoding3)
 
 known_face_names.append("Jaydon Moses")
 known_face_names.append("Elon Musk")
-known_face_names.append("Julianna Moses")
 
 #initialize webcam
 video_capture = cv2.VideoCapture(0)
