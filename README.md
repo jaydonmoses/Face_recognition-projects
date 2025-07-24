@@ -33,9 +33,9 @@ This project is a real-time face recognition system built with Python and OpenCV
 
 ### Installation
 
-1.  Clone this repository: `git clone https://github.com/your-username/your-repository-name.git`
-2.  Navigate to the project directory: `cd your-repository-name`
-3.  Install dependencies: `pip install -r requirements.txt` (Make sure you have a `requirements.txt` file).
+1.  Clone this repository: `git clone https://github.com/jaydonmoses/Face_recognition-projects.git`
+2.  Navigate to the project directory: `cd face_recognition-project`
+3.  Install dependencies: `pip install -r requirements.txt`
 
 ### Usage
 
