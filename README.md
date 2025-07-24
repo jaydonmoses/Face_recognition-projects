@@ -11,9 +11,12 @@ This project is a real-time face recognition system built with Python and OpenCV
 ## Screenshots
 
 * **Recognizing Jaydon Moses:**
-    ![Jaydon Moses Recognition](IMG_9677.jpg)
+    ![Jaydon Moses Recognition]
+  ![IMG_9677](https://github.com/user-attachments/assets/9badfd59-51ef-40df-88c2-d3c24e120b15)
+
 * **Recognizing Elon Musk (from image):**
-    ![Elon Musk Recognition](IMG_9679.jpg)
+    ![Elon Musk Recognition]
+  ![IMG_9679](https://github.com/user-attachments/assets/d11bb018-3a7f-4629-8a8e-443d128e046e)
 
 ## Technologies
 
@@ -41,11 +44,11 @@ This project is a real-time face recognition system built with Python and OpenCV
 3.  A window will open, displaying the live video feed with recognized names.
 
 ## Project Structure
-.
-├── face_recognition_app.py
-├── known_faces/
-├── requirements.txt
-└── README.md
+
+<br /> ├── face_recognition_app.py
+<br /> ├── known_faces/
+<br /> ├── requirements.txt
+<br /> └── README.md
 
 ## Future Enhancements
 
